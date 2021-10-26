@@ -1,6 +1,6 @@
 public class circle {
     public static void main(String[] args) {
-float diameter=3;
+float diameter=5;
 
         printCircumferencve(diameter);
 
